@@ -1,0 +1,5 @@
+Write a program for seat reservations using multi threading and synchronization concepts learnt
+ where each person who tries to reserve a seat is treated as a thread, 
+ There are 10 seats and each person accesses the synchronized method in Reservation class.
+ give appropriate outputs depending on the availability of the seats
+ 
