@@ -1,0 +1,2 @@
+Transaction successful
+Available balance 500
