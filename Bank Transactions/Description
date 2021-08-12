@@ -1,0 +1,3 @@
+Write a program for money withdraw and deposit using interprocess communication 
+ for a Person with 1000 rupees in his account
+ execute with 2 threads  withdraw 1500 and deposit 1000 using wait() and notify() 
